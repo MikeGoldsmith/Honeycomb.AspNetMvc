@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Honeycomb.AspNetMvc</id>
+    <version>0.9.2-pre</version>
+    <title>Honeycomb.AspNetMvc</title>
+    <authors>MartinJT</authors>
+    <owners>MartinJT</owners>
+    <projectUrl>https://github.com/martinjt/Honeycomb.AspNetMvc</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Client package for Honeycomb.io and ASP.NET MVC 5</description>
+    <copyright>Copyright 2019</copyright>
+    <tags>Observability Tracing</tags>
+    <dependencies>
+      <dependency id="Honeycomb" version="1.0" />
+      <dependency id="Microsoft.Extensions.Logging" version="2.1" />
+      <dependency id="Microsoft.Extensions.DependencyInjection" version="2.1" />
+      <dependency id="Microsoft.Extensions.Options" version="2.1" />
+      <dependency id="Microsoft.Extensions.Http" version="2.1" />
+    </dependencies>
+  </metadata>
+</package>
